@@ -139,7 +139,7 @@ var bView = myCollectionView.children.findByModelCid(buttonView.model.cid);
 Find by custom key.
 
 ```javascript
-var bView = myCollectionView.children.findByCustom('cutom_key');
+var bView = myCollectionView.children.findByCustom('custom_key');
 ```
 
 #### CollectionView childView's: `findByIndex`
